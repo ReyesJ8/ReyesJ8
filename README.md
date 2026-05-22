@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/jorgeluisreyes1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a cybersecurity student at SANS with a profound interest in technology and a dedication to solving complex problems.
+I am a **Cybersecurity Student** and **USAF Veteran** focused on building defenses, analyzing traffic, and automating security tasks. I love breaking down complex system behaviors and turning theoretical security concepts into hands-on tools
 
 ## Objective
 
