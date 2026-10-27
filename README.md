@@ -31,20 +31,22 @@ My journey in Law Enforcement and Physical Security has led me to develop a pass
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-002D62?&style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenSearch-005EB8?&style=for-the-badge&logo=opensearch&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ## Certifications
+<img src="https://img.shields.io/badge/-GIAC%20GSOC-701A75?&style=for-the-badge&logo=GIAC&logoColor=white" />
 <img src="https://img.shields.io/badge/-GIAC%20GCIH-701A75?&style=for-the-badge&logo=GIAC&logoColor=white" />
 <img src="https://img.shields.io/badge/-GIAC%20GSEC-701A75?&style=for-the-badge&logo=GIAC&logoColor=white" />
 <img src="https://img.shields.io/badge/-GIAC%20GFACT-701A75?&style=for-the-badge&logo=GIAC&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20A%2B-E50012?&style=for-the-badge&logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cloud%20Digital%20Leader-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
 </div>
 
 ## Projects
