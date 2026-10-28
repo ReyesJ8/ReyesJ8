@@ -1,13 +1,15 @@
 # Hello, I'm Jorge
 <a href="https://linkedin.com/in/jorgeluisreyes1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a **Cybersecurity Student** and **USAF Veteran** focused on building defenses, analyzing traffic, and automating security tasks. I love breaking down complex system behaviors and turning theoretical security concepts into hands-on tools
+I am a 20-year **USAF Veteran** and **Cybersecurity Professional** with a strong background in security monitoring, system administration, and workflow automation. My technical focus centers on proactively detecting threats, writing custom detection logic, and streamlining administrative tasks across Windows and Linux environments.
 
+* 🎯 **Current Focus:** Threat Detection Engineering (Sigma & YARA-X rules for SMB/RDP/WinRM lateral movement).
+* 🛡️ **Security Operations:** Log aggregation & analysis using OpenSearch (DQL), Suricata/Snort NIDS, and Linux `auditd`.
+* ⚙️ **Systems & Automation:** Windows system optimization, SFC/DISM maintenance scripting, and network diagnostics.
+  
 ## Objective
 
-My journey in Law Enforcement and Physical Security has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
+Seeking a Cybersecurity Administrator / Security Analyst role where I can apply my experience in SIEM query construction, threat detection engineering, and incident analysis to defend critical infrastructure and strengthen security postures.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
