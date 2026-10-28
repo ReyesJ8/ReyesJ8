@@ -1,7 +1,6 @@
 # Hello, I'm Jorge
 <a href="https://linkedin.com/in/jorgeluisreyes1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
 I am a **Cybersecurity Student** and **USAF Veteran** focused on building defenses, analyzing traffic, and automating security tasks. I love breaking down complex system behaviors and turning theoretical security concepts into hands-on tools
 
 ## Objective
@@ -41,11 +40,18 @@ My journey in Law Enforcement and Physical Security has led me to develop a pass
 </div>
 
 ## Certifications
-<img src="https://img.shields.io/badge/-GIAC%20GSOC-701A75?&style=for-the-badge&logo=GIAC&logoColor=white" />
-<img src="https://img.shields.io/badge/-GIAC%20GCIH-701A75?&style=for-the-badge&logo=GIAC&logoColor=white" />
-<img src="https://img.shields.io/badge/-GIAC%20GSEC-701A75?&style=for-the-badge&logo=GIAC&logoColor=white" />
-<img src="https://img.shields.io/badge/-GIAC%20GFACT-701A75?&style=for-the-badge&logo=GIAC&logoColor=white" />
+### GIAC
+<div>
+<img src="https://img.shields.io/badge/-GSOC-701A75?&style=for-the-badge&logo=GIAC&logoColor=white" />
+<img src="https://img.shields.io/badge/-GCIH-701A75?&style=for-the-badge&logo=GIAC&logoColor=white" />
+<img src="https://img.shields.io/badge/-GSEC-701A75?&style=for-the-badge&logo=GIAC&logoColor=white" />
+<img src="https://img.shields.io/badge/-GFACT-701A75?&style=for-the-badge&logo=GIAC&logoColor=white" />
+<div>
+    
+### CompTIA
 <img src="https://img.shields.io/badge/-CompTIA%20A%2B-E50012?&style=for-the-badge&logo=comptia&logoColor=white" />
+
+### Google Career Certificates
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
