@@ -11,8 +11,8 @@ My journey in Law Enforcement and Physical Security has led me to develop a pass
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/ReyesJ8/wazuh-siem-fim-lab">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ReyesJ8/wazuh-siem-fim-lab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -56,5 +56,5 @@ My journey in Law Enforcement and Physical Security has led me to develop a pass
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/ReyesJ8/wazuh-siem-fim-lab">Detection Lab</a>
 - SOC Automation Project
