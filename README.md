@@ -2,10 +2,6 @@
 <a href="https://linkedin.com/in/jorgeluisreyes1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a 20-year **USAF Veteran** and **Cybersecurity Professional** with a strong background in security monitoring, system administration, and workflow automation. My technical focus centers on proactively detecting threats, writing custom detection logic, and streamlining administrative tasks across Windows and Linux environments.
-
-* 🎯 **Current Focus:** Threat Detection Engineering (Sigma & YARA-X rules for SMB/RDP/WinRM lateral movement).
-* 🛡️ **Security Operations:** Log aggregation & analysis using OpenSearch (DQL), Suricata/Snort NIDS, and Linux `auditd`.
-* ⚙️ **Systems & Automation:** Windows system optimization, SFC/DISM maintenance scripting, and network diagnostics.
   
 ## Objective
 
