@@ -14,7 +14,7 @@ Seeking a Cybersecurity Administrator / Security Analyst role where I can apply 
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | <a href= "https://github.com/ReyesJ8/Automation-Lab">SOC Automation Lab</a>|
 
 ## Tools
 
