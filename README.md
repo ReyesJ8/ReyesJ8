@@ -55,4 +55,4 @@ Seeking a Cybersecurity Administrator / Security Analyst role where I can apply 
 
 ## Projects
 - <a href="https://github.com/ReyesJ8/wazuh-siem-fim-lab">Detection Lab</a>
-- SOC Automation Project
+- <a href= "https://github.com/ReyesJ8/Automation-Lab">SOC Automation Lab</a>
